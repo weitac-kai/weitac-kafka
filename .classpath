@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/slf4j-api-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/geoip2-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/maxmind-db-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/jackson-core-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/编译建模/依赖jar/jackson-databind-2.7.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
